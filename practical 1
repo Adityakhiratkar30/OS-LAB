@@ -1,0 +1,5 @@
+include<stdio.h>
+int main(){
+        printf("Linux command practice successful!\n");
+        return 0;
+}
